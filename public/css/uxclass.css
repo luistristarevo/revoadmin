@@ -1,0 +1,26 @@
+/* 
+    Created on : Aug 28, 2015, 7:25:54 PM
+    Author     : lnorat
+*/
+.ticketbox {
+    background-color: blue;
+    color: white;
+    padding: 3px;
+    float: left;
+}
+
+.ticketbox-response {
+    background-color: green;
+    color: white;
+    padding: 3px;
+    float: right;
+}
+
+.input-error {
+    border-color: red!important;
+    background-color: #FED;
+}
+
+.pad5 {
+    padding: 5px;
+}
